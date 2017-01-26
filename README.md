@@ -1,4 +1,5 @@
 This is an Angular 2 Heroes tutorial from [angular.io](https://angular.io)
+this angular 2 app uses typescript and bootstrap.
 To start I cloned down the quickstart repo on github as noted below:
 
 # Angular QuickStart Source
